@@ -15,15 +15,15 @@ The Music Recommendation System project is designed to enhance music exploration
 
 **Python:** Utilized for data manipulation, analysis, and backend logic.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
 **Pandas and NumPy:** For data handling and numerical computations.
 
-**Seaborn and Matplotlib:** For data visualization, creating insightful charts and graphs
-.
+**Seaborn and Matplotlib:** For data visualization, creating insightful charts and graphs.
+
 **Plotly:** Used for interactive visualizations, enhancing user engagement.
 
 **Streamlit:** Powers the interactive web application interface, allowing users to explore data trends and receive song recommendations.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 
