@@ -5,13 +5,13 @@ This repository contains a Python-based music recommendation system that leverag
 ## Project Overview
 The Music Recommendation System project is designed to enhance music exploration and discovery by leveraging data-driven insights and machine-learning techniques. Its primary objective is to provide users with a platform to explore and visualize trends in music data while offering personalized song recommendations based on their preferences.
 
-## Objectives
+# Objectives
 
 # Data Visualization: The project visualizes various aspects of music data, including the distribution of songs across decades, popularity trends over the years, and insights into top genres, artists, and songs. This visualization helps users understand historical and current music trends comprehensively.
 
 # Personalized Recommendations: Using advanced machine learning algorithms such as cosine similarity, the system generates personalized song recommendations. Users can input their favorite songs as seeds, and the system suggests similar tracks from a vast dataset based on attributes like valence, acoustics, danceability, and more. 
 
-## Technologies Used:
+# Technologies Used:
 
 # Python: Utilized for data manipulation, analysis, and backend logic.
 # Pandas and NumPy: For data handling and numerical computations.
